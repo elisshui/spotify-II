@@ -5,5 +5,8 @@ This project was based on the Spotify clone project by <a href="https://www.yout
   * JavaScript
   * React & Redux Toolkit
   * Rapid API & IP Geolocation API
+ 
+ <img src="" alt="Spotify II">
   
 </p>
+
