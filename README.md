@@ -6,7 +6,7 @@ This project was based on the Spotify clone project by <a href="https://www.yout
   * React & Redux Toolkit
   * Rapid API & IP Geolocation API
  
- <img src="" alt="Spotify II">
+ <img src="https://github.com/elisshui/spotifyII/blob/main/discoverPg.JPG" alt="Spotify II">
   
 </p>
 
